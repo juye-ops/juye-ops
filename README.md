@@ -29,6 +29,6 @@
 <br>
 
 <div align=center>
-    <a href=""><img src="https://img.shields.io/badge/Notion-DDDDDD?style=flat&logo=Notion&logoColor=black"/></a>
+    <a href="https://bit.ly/3yjzHLB"><img src="https://img.shields.io/badge/Notion-DDDDDD?style=flat&logo=Notion&logoColor=black"/></a>
     <a href="mailto:kjye.ops@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
