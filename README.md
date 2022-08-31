@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BE81F7&height=250&section=header&text=Kim%20Ju-Yeop&fontColor=999999&fontSize=70&fontAlignY=40">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BE81F7&height=250&section=header&text=Kim%20Ju-Yeop&fontColor=222222&fontSize=70&fontAlignY=40">
 
 <h1 align=center>🧑‍💻Tech Skills</h1>
 <div align=center>
@@ -18,10 +18,7 @@
 </div>
 <br><br><br>
 <hr>
-<div align=center>
-    <a href="https://github.com/juye-ops/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juye-ops&layout=compact"></a>
-</div>
-<br>
+
 <div align=center>
     <a href="https://github.com/juye-ops/"><img src="https://github-readme-stats.vercel.app/api?username=juye-ops&show_icons=true&theme=swift"></a>
 </div>
