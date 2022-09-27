@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Kim%20Ju-Yeop&fontColor=9400D3&fontSize=70&fontAlignY=40&desc=AI/Infra%20Developer%20">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Kim%20Ju-Yeop&fontColor=9370DB&fontSize=70&fontAlignY=40&desc=AI/Infra%20Developer%20">
 
 <h1 align=center>🧑‍💻Tech Skills</h1>
 <div align=center>
