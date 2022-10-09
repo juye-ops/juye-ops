@@ -26,13 +26,12 @@
 <br><br><br>
 
 # ⭐ Github Stats
-<a href="https://github.com/juye-ops/"><img height=200px src="https://github-readme-stats.vercel.app/api?username=juye-ops&show_icons=true&theme=swift"></a>
-<a href="https://github.com/juye-ops/"><img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=juye-ops&layout=compact"></a>
+<a href="https://github.com/juye-ops/"><img src="https://github-readme-stats.vercel.app/api?username=juye-ops&show_icons=true&theme=swift"></a>
 <br><br><br>
 
 # 🤝 Contact
 
 <a href="https://bit.ly/3yjzHLB"><img src="https://img.shields.io/badge/Notion-DDDDDD?style=flat&logo=Notion&logoColor=black"/></a>
 <a href="mailto:kjye.ops@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-
+<br><br><br>
 </div>
