@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Kim%20Ju-Yeop&fontColor=9370DB&fontSize=70&fontAlignY=40&desc=AI/Infra%20Developer%20">
 
-<center>
+
+<div align=center>
 
 # 🧑‍💻 Tech Skills
 
@@ -34,4 +35,4 @@
 <a href="https://bit.ly/3yjzHLB"><img src="https://img.shields.io/badge/Notion-DDDDDD?style=flat&logo=Notion&logoColor=black"/></a>
 <a href="mailto:kjye.ops@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
-</center>
+</div>
