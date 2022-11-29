@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
 
-<br><br><br>
 
 <!--
 # 🗨 Comments
@@ -25,15 +24,15 @@
 나아가, 컴퓨터 공학에 영향을 미칠 수 있는 **인플루언서 개발자**가 되고 싶습니다.  
 -->
 
-<br><br><br>
-
+<br><br>
+  
 # ⭐ Github Stats
 <a href="https://github.com/juye-ops/"><img src="https://github-readme-stats.vercel.app/api?username=juye-ops&show_icons=true&theme=swift"></a>
-<br><br><br>
+<br><br>
 
 # 🤝 Contact
 
 <a href="https://bit.ly/3yjzHLB"><img src="https://img.shields.io/badge/Notion-DDDDDD?style=flat&logo=Notion&logoColor=black"/></a>
 <a href="mailto:kjye.ops@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-<br><br><br>
+<br><br>
 </div>
