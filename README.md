@@ -32,7 +32,7 @@
 
 # 🤝 Contact
 
-<a href="https://bit.ly/3yjzHLB"><img src="https://img.shields.io/badge/Tech_Blog-655CED?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://juye-ops.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-655CED?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:kjye.ops@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <br><br>
 </div>
