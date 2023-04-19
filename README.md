@@ -6,11 +6,14 @@
 # 🧑‍💻 Tech Skills
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
@@ -26,8 +29,10 @@
 
 <br><br>
   
-# ⭐ Github Stats
+# ⭐ Stats
 <a href="https://github.com/juye-ops/"><img src="https://github-readme-stats.vercel.app/api?username=juye-ops&show_icons=true&theme=swift"></a>
+<br>
+<a href="https://solved.ac/profile/juye_ops/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juye_ops"/></a>
 <br><br>
 
 # 🤝 Contact
