@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Kim%20Ju-Yeop&fontColor=4B0082&fontSize=70&fontAlignY=40&desc=AI/Infra%20Developer%20">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Kim%20Ju-Yeop&fontColor=4B0082&fontSize=70&fontAlignY=40&desc=Cloud/Infra%20Engineer">
 
 
 <div align=center>
